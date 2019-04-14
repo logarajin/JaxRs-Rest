@@ -5,7 +5,11 @@
 	<groupId>test-jersey-rest-maven-tomcat</groupId>
 	<artifactId>test-jersey-rest-maven-tomcat</artifactId>
 	<packaging>war</packaging>
+<<<<<<< HEAD
 	<version>0.0.3-SNAPSHOT</version>
+=======
+	<version>0.0.1-SNAPSHOT</version>
+>>>>>>> parent of e7c227f... Update pom.xml
 	<name>test-jersey-rest-maven-tomcat Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
