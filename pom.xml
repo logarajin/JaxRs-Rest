@@ -9,7 +9,7 @@
 	<version>0.0.4-SNAPSHOT</version>
 
 	<name>test-jersey-rest-maven-tomcat Maven Webapp</name>
-	<url>http://maven.apache.org</url>
+	<url>http://maven2.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
